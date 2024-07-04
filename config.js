@@ -9,10 +9,10 @@ global.audio = "";
 global.video = "";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
-global.email = "dextermd556@gmail.com";
+global.email = "pasidujayasundara2009@gmail.com";
 global.location = "Sri lanka .";
 global.mongodb = process.env.MONGODB_URI || "";
-global.allowJids = process.env.ALLOW_JID || "94789958225@s.whatsapp.net";
+global.allowJids = process.env.ALLOW_JID || "94743491027@s.whatsapp.net";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "srilank/ampara";
@@ -22,7 +22,7 @@ global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vag1WQFJf
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/1f4e6e1cc2ed1662adb36.jpg";
 global.devs = "923135673658";
 global.sudo = process.env.SUDO || "94789958225,94757660788,94770730717,94785274495";
-global.owner = process.env.OWNER_NUMBER || "94789958225,94753574803";
+global.owner = process.env.OWNER_NUMBER || "94743491027";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "true";
@@ -56,7 +56,7 @@ module.exports = {
   packname: process.env.PACK_NAME || "♥️",
   botname: process.env.BOT_NAME || "𝐑𝐂𝐃 𝐌𝐃",
   ownername: process.env.OWNER_NAME || "𝐃𝐄𝐗𝐓𝐄𝐑,𝐕𝐈𝐏𝐄𝐑",
-  errorChat: process.env.ERROR_CHAT || "94789958225",
+  errorChat: process.env.ERROR_CHAT || "94743491027",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
